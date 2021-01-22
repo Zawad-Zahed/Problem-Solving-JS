@@ -1,5 +1,5 @@
 // Assignment 3
-// https://github.com/Zawad-Zahed/Starting-JS
+// https://github.com/Zawad-Zahed/Problem-Solving-JS
 
 
 // 1st problem Solved = "KilometerToMeter" 
