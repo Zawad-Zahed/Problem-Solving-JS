@@ -14,7 +14,7 @@ function KilometerToMeter(kilometer){
 
 }
 var jeteHobe = KilometerToMeter(58);
-console.log(jeteHobe);  //Ans: 5800 meter.
+console.log("total meter:",jeteHobe);  //Ans: 5800 meter.
 
 
 // 2nd problem Solved = "budgetCalculator" 
@@ -30,7 +30,7 @@ var costPerLeptop = 500;
             return totalWatch + totalMobile + totalLeptop;
         }
     var result = budgetCalculator(5,4,3);
-    console.log(result); // Ans: budget lagbe 2150taka.
+    console.log("total budget:",result); // Ans: budget lagbe 2150taka.
     
 
 
@@ -58,7 +58,7 @@ function hotelCost(roomCost){
 }
 
 var totalDayCount = hotelCost(17);
-console.log(totalDayCount); //Ans: 17 diner jonne 1560Taka.
+console.log("Total money of the hotelCost:",totalDayCount); //Ans: 17 diner jonne 1560Taka.
 
 
 // 4th problem Solve = "megaFriend" 
@@ -79,4 +79,4 @@ function megaFriend (nameOfFriends){
 }
 
 var bigNameOfFriends = megaFriend(nameOfFriends);
-console.log(bigNameOfFriends); //Ans: Sob cheye boro nam = Shukhaimura. 
+console.log("Big name of the friends zone:", bigNameOfFriends); //Ans: Shukhaimura. 
